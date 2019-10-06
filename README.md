@@ -1,4 +1,4 @@
-An android application where buyers and sellers can interact. Special thanks to Mitch Tabian for his tutorials.
+An android application where buyers and sellers can interact. Special thanks to Mitch Tabian for his tutorials.\
 Given below are few screenshots of the app in action and the features available
 
 
